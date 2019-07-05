@@ -1,5 +1,5 @@
 #thebros
-#created by bro
+#created by thebro
 Hello members
 
 Here are the few rules that you need to follow

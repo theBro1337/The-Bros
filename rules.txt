@@ -1,0 +1,15 @@
+#thebros
+#created by bro
+Hello members
+
+Here are the few rules that you need to follow
+
+1.You have to help the other members of the group . I am not talking about 
+helping to solve ctf or remove bugs . I am taling about helping with malwares 
+and helping the bros out when he/she is in trouble or during hacking. For example .
+2. There will be a messenger in which we will chat and hangout . It will use symmetric encryption . So there will be one password for encryption and message databases . Don't forget it .
+3.Anyone who is doing a job can donate if u are not doing any job or don't have any income source don't need to donateb . The donation can be as less
+as 1$ . It is to pay for our servers . 
+4.You can share/sell/trade your code,exploits,malware if its open source . We don't accept closed source here
+5. Anyone who does OSINT should share informations/intelligence with other members
+Thats all . The rules can be updated
